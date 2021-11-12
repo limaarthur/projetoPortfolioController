@@ -1,0 +1,38 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "http://google.com",
+      "name": "Joao Pedro",
+      "birth": 595123200000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1615300005684
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Arthur",
+      "birth": 847584000000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1615314112169,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Thiago",
+      "avatar_url": "http://google.com",
+      "birth": 865987200000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1615342225791
+    },
+    {
+      "avatar_url": "http://google.com",
+      "name": "Thiago",
+      "birth": "1997-06-11",
+      "gender": "M",
+      "services": "Crossfit"
+    }
+  ]
+}
